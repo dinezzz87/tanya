@@ -948,8 +948,8 @@ ol {
 
 .footer-widget .insta-pic img {
 	margin-right: 5px;
-	width: calc(33.33% - 5px);
-	float: left;
+	//width: calc(33.33% - 5px);
+	float: NONE;
 	margin-bottom: 5px;
 }
 
